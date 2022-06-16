@@ -6,3 +6,4 @@ dist
 TSDX_GUIDE.md
 test
 .github
+.npmignore
