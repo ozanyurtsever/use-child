@@ -2,6 +2,9 @@
 
 > React hook for getting the type of any nested child component
 
+A component may want to make assumptions about its children to satisfy layout
+constraints. This custom hook helps you to determine if there is any nested child with a specific type, and returns you the nested child itself to apply any layout constraints to it while rendering.
+
 ## Install
 
 ```sh
